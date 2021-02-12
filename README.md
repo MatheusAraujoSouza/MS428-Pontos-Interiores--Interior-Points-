@@ -7,7 +7,7 @@ Os métodos de pontos interiores são os mais eficientes na programação linear
 Para maiores entendimentos do projeto leia o arquivo em pdf.
 
 
-# MS428-Pontos-Interiores
+# MS428-Interior-Points
 MS428 project (Linear programming), carried out in 2019,
 Implementation of the interior points algorithm (Predictor-Corrector Method)
 With a small change in the method used in linear programming, the correcting predictor (now updated to a method called path tracker), are internal changes

@@ -14,3 +14,9 @@ Com uma pequena mudança no método utilizado na programação linear o preditor
 na estrutura algebrica no desenvolvimento do algoritmo.
 Os métodos de pontos interiores são os mais eficientes na programação linear, sendo eles mais poderosos nessa área muito ampla de pesquisa e aplicações.
 Para maiores entendimentos do projeto leia o arquivo em pdf.
+
+## credits:
+
+report: Bruno Trevisan.
+
+code: Matheus Araujo Souza. 
